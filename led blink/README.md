@@ -1,6 +1,8 @@
 # Led blink
 
 I will start with the simplets task there is: Turning a LED on and off using a timer. 
+Datasheet information can be found here:
+http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
 ## Tasks
 
